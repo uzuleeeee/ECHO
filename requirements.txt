@@ -1,0 +1,7 @@
+Flask==2.2.2
+Pillow==9.3.0
+Werkzeug<3.0.0
+mediapipe
+opencv-python-headless
+numpy
+scikit-learn
