@@ -10,7 +10,8 @@ The app takes any input image and generates a clean, aesthetic compositional gui
 
 | Input Image | Generated Template | 
 | --- | --- | 
-|  |  | 
+| ![Image 1](/ExampleImages/image1.png) | ![Outline 1](/ExampleImages/outline1.png) | 
+| ![Image 2](/ExampleImages/image2.png) | ![Outline 2](/ExampleImages/outline2.png) | 
 
 
 ## Features
